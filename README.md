@@ -1,1 +1,1 @@
-# py_standard_deviation_calculator
+I was inspired to create this calculator after helping a friend with some standard deviation work they were doing and seeing the long process they were using to obtain their result. This program can calculate the standard deviation for both samples and populations. I verified my results by using an online calculator found here: https://www.calculator.net/standard-deviation-calculator.html
